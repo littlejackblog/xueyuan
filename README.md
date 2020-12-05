@@ -1,3 +1,2 @@
-# happybirthday
-祝yuky生日快乐
-https://littlejackblog.github.io/
+# 欢迎大家查看我的个人博客
+https://thiszjb.gitee.io/blog
